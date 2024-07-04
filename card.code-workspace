@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../card"
+		},
+		{
+			"path": "../../gato"
+		},
+		{
+			"path": "../../zuera"
+		},
+		{
+			"path": "../../Nova pasta/Yu-Gi-Oh-Card-main"
+		},
+		{
+			"path": "../../NossoCard"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "card"
+	}
+}
